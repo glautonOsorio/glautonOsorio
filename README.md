@@ -4,7 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Fullstack Developer
 --------------------------
 
-Uma pessoa que caiu no mundo de programação com o programa Floripa Mais Tech Amo desafios e coisas difíceis pois me deixar focar e aprender mais, por isso que gosto tanto de programação, é sempre um desafio novo quando vou aprender ou fazer algo que ja aprendi em algum projeto meu. A person that fell in the world of programming in a program called Floripa Mais Tech I love challenges and difficult in things as it allow me to learn/focus more, that is one of the reasons why i fell in love programming , it is hard and even if i know something there is always a new way of using this something, and that always leads to a rabbit hole of learning more about it
+### Português 
+
+Uma pessoa que caiu no mundo de programação com o programa Floripa Mais Tech Amo desafios e coisas difíceis pois me deixar focar e aprender mais, por isso que gosto tanto de programação, é sempre um desafio novo quando vou aprender ou fazer algo que ja aprendi em algum projeto meu. 
+
+### English
+
+A person that fell in the world of programming in a program called Floripa Mais Tech I love challenges and difficult in things as it allow me to learn/focus more, that is one of the reasons why i fell in love programming , it is hard and even if i know something there is always a new way of using this something, and that always leads to a rabbit hole of learning more about it
 
 *   🌍  I'm based in Brasil
 *   🖥️  See my portfolio at [GlautonPDF](http://drive.google.com/file/d/1CcrOln7aNYIdiSefGuEGKxwZ04YcgoDM/view?usp=sharing)
