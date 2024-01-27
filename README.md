@@ -4,13 +4,13 @@ Hello There ![](https://user-images.githubusercontent.com/18350557/176309783-078
 Junior Fullstack Developer
 --------------------------
 
-### Português 
+• Experienced in using object-oriented programming, clean code, and easily creating APIs.
 
-Uma pessoa que caiu no mundo de programação com o programa Floripa Mais Tech Amo desafios e coisas difíceis pois me deixar focar e aprender mais, por isso que gosto tanto de programação, é sempre um desafio novo quando vou aprender ou fazer algo que ja aprendi em algum projeto meu. 
+• Developer with expertise in: JavaScript | HTML | CSS | React.js | Node.js | Express | Sequelize | PostgreSQL | Docker | DevOps.
 
-### English
+• Comfortable working in a team, with assertive communication skills, and proficient in English.
 
-A person that fell in the world of programming in a program called Floripa Mais Tech I love challenges and difficult in things as it allow me to learn/focus more, that is one of the reasons why i fell in love programming , it is hard and even if i know something there is always a new way of using this something, and that always leads to a rabbit hole of learning more about it
+• This is my contact email: glautonleao@gmail.com.
 
 *   🌍  I'm based in Brasil
 *   🖥️  See my portfolio at [GlautonPDF](http://drive.google.com/file/d/1CcrOln7aNYIdiSefGuEGKxwZ04YcgoDM/view?usp=sharing)
