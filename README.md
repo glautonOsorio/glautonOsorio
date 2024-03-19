@@ -15,7 +15,7 @@ Junior Fullstack Developer
 *   🌍  I'm based in Brasil
 *   🖥️  See my portfolio at [GlautonPDF](http://drive.google.com/file/d/1CcrOln7aNYIdiSefGuEGKxwZ04YcgoDM/view?usp=sharing)
 *   ✉️  You can contact me at [glautonleao@gmail.com](mailto:glautonleao@gmail.com)
-*   🧠  I'm learning JAVA
+*   🧠  I'm learning Python
 *   🤝  I'm open to collaborating on Team Projects
 *   ⚡  i really love my cat
 *   ### Skills 
