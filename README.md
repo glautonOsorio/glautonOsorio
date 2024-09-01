@@ -4,7 +4,7 @@ Hello There ![](https://user-images.githubusercontent.com/18350557/176309783-078
 Junior Fullstack Developer
 --------------------------
 
-• Experienced in using object-oriented programming, clean code, and easily creating APIs.
+• Experienced in using object-oriented programming, Clean Code, and creating front-end applications and APIs.
 
 • Developer with expertise in: JavaScript | HTML | CSS | React.js | Node.js | Express | Sequelize | PostgreSQL | Docker | DevOps.
 
