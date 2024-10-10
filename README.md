@@ -6,7 +6,7 @@ Junior Fullstack Developer
 
 • Experienced in using object-oriented programming, Clean Code, and creating front-end applications and APIs.
 
-• Developer with expertise in: JavaScript | HTML | CSS | React.js | Node.js | Express | Sequelize | PostgreSQL | Docker | DevOps.
+• Developer with expertise in: JavaScript | Java | HTML | CSS | React.js | Node.js | Spring | Express | Sequelize | PostgreSQL | MySql | Docker | DevOps.
 
 • Comfortable working in a team, with assertive communication skills, and proficient in English.
 
