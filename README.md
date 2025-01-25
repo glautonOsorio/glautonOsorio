@@ -10,7 +10,6 @@ Junior Fullstack Developer
 
 • Comfortable working in a team, with assertive communication skills, and proficient in English.
 
-• This is my contact email: glautonleao@gmail.com.
 
 *   🌍  I'm based in Brasil
 *   ✉️  You can contact me at [glautonleao@gmail.com](mailto:glautonleao@gmail.com)
