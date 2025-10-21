@@ -1,7 +1,7 @@
-Hello There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Glauton Osório
+Hello There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Glauton Leão
 ======================================================================================================================================
 
-Junior Fullstack Developer
+Fullstack Developer
 --------------------------
 
 • Experienced in using object-oriented programming, Clean Code, and creating front-end applications and APIs.
@@ -13,7 +13,7 @@ Junior Fullstack Developer
 
 *   🌍  I'm based in Brasil
 *   ✉️  You can contact me at [glautonleao@gmail.com](mailto:glautonleao@gmail.com)
-*   🧠  I'm learning Typescript and Next.js
+*   🧠  I'm learning PHP
 *   🤝  I'm open to collaborating on Team Projects
 *   ⚡  i really love my cat
 *   ### Skills 
